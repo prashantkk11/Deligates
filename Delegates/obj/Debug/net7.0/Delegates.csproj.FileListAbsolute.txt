@@ -1,0 +1,15 @@
+D:\prashant\Dot_Net\Delegates\bin\Debug\net7.0\Delegates.exe
+D:\prashant\Dot_Net\Delegates\bin\Debug\net7.0\Delegates.deps.json
+D:\prashant\Dot_Net\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+D:\prashant\Dot_Net\Delegates\bin\Debug\net7.0\Delegates.dll
+D:\prashant\Dot_Net\Delegates\bin\Debug\net7.0\Delegates.pdb
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.dll
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.pdb
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+D:\prashant\Dot_Net\Delegates\obj\Debug\net7.0\ref\Delegates.dll

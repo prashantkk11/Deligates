@@ -1,0 +1,15 @@
+D:\prashant\Dot_Net\ActionFuncPre\bin\Debug\net7.0\ActionFuncPre.exe
+D:\prashant\Dot_Net\ActionFuncPre\bin\Debug\net7.0\ActionFuncPre.deps.json
+D:\prashant\Dot_Net\ActionFuncPre\bin\Debug\net7.0\ActionFuncPre.runtimeconfig.json
+D:\prashant\Dot_Net\ActionFuncPre\bin\Debug\net7.0\ActionFuncPre.dll
+D:\prashant\Dot_Net\ActionFuncPre\bin\Debug\net7.0\ActionFuncPre.pdb
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.csproj.AssemblyReference.cache
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.GeneratedMSBuildEditorConfig.editorconfig
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.AssemblyInfoInputs.cache
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.AssemblyInfo.cs
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.csproj.CoreCompileInputs.cache
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.dll
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\refint\ActionFuncPre.dll
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.pdb
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ActionFuncPre.genruntimeconfig.cache
+D:\prashant\Dot_Net\ActionFuncPre\obj\Debug\net7.0\ref\ActionFuncPre.dll
